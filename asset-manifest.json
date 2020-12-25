@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/note-app/static/css/main.96576643.chunk.css",
-    "main.js": "/note-app/static/js/main.063f577b.chunk.js",
-    "main.js.map": "/note-app/static/js/main.063f577b.chunk.js.map",
-    "runtime-main.js": "/note-app/static/js/runtime-main.7a5f2ca1.js",
-    "runtime-main.js.map": "/note-app/static/js/runtime-main.7a5f2ca1.js.map",
-    "static/js/2.eec2d66c.chunk.js": "/note-app/static/js/2.eec2d66c.chunk.js",
-    "static/js/2.eec2d66c.chunk.js.map": "/note-app/static/js/2.eec2d66c.chunk.js.map",
-    "static/js/3.8c8abe9d.chunk.js": "/note-app/static/js/3.8c8abe9d.chunk.js",
-    "static/js/3.8c8abe9d.chunk.js.map": "/note-app/static/js/3.8c8abe9d.chunk.js.map",
-    "index.html": "/note-app/index.html",
-    "static/css/main.96576643.chunk.css.map": "/note-app/static/css/main.96576643.chunk.css.map",
-    "static/js/2.eec2d66c.chunk.js.LICENSE.txt": "/note-app/static/js/2.eec2d66c.chunk.js.LICENSE.txt"
+    "main.css": "/ReactNoteApp/static/css/main.96576643.chunk.css",
+    "main.js": "/ReactNoteApp/static/js/main.063f577b.chunk.js",
+    "main.js.map": "/ReactNoteApp/static/js/main.063f577b.chunk.js.map",
+    "runtime-main.js": "/ReactNoteApp/static/js/runtime-main.97a828bd.js",
+    "runtime-main.js.map": "/ReactNoteApp/static/js/runtime-main.97a828bd.js.map",
+    "static/js/2.eec2d66c.chunk.js": "/ReactNoteApp/static/js/2.eec2d66c.chunk.js",
+    "static/js/2.eec2d66c.chunk.js.map": "/ReactNoteApp/static/js/2.eec2d66c.chunk.js.map",
+    "static/js/3.8c8abe9d.chunk.js": "/ReactNoteApp/static/js/3.8c8abe9d.chunk.js",
+    "static/js/3.8c8abe9d.chunk.js.map": "/ReactNoteApp/static/js/3.8c8abe9d.chunk.js.map",
+    "index.html": "/ReactNoteApp/index.html",
+    "static/css/main.96576643.chunk.css.map": "/ReactNoteApp/static/css/main.96576643.chunk.css.map",
+    "static/js/2.eec2d66c.chunk.js.LICENSE.txt": "/ReactNoteApp/static/js/2.eec2d66c.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.7a5f2ca1.js",
+    "static/js/runtime-main.97a828bd.js",
     "static/js/2.eec2d66c.chunk.js",
     "static/css/main.96576643.chunk.css",
     "static/js/main.063f577b.chunk.js"
